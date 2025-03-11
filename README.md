@@ -1,6 +1,8 @@
 ## E-Commerce-Sales-Dashboard
 A E-Commerce Dashboard project using Microsoft Excel and Power BI for data analysis and for effective visualizations.
 
+<img width="602" alt="E-commerce Sales Dashboard" src="https://github.com/user-attachments/assets/2cb665d0-1f3f-4497-898e-6108b1644856" />
+
 ## 📌 Overview
 This project features a **E-Commerce Dashboard** created using **Excel files** and **Power BI** to analyze and visualize key insights.
 
